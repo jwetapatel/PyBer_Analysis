@@ -40,6 +40,12 @@ Software: Python 3.7.4, Pandas 0.25.2, Matplotlib 3.1.1, Jupyter Notebook
 
 ![Line chart of ride sharing data](https://user-images.githubusercontent.com/96400887/168849944-d21a2d97-74d3-413f-9f5f-e016cf32c7c9.png)
 
+# Summary:
+
+- The datashows that urban cities do significantly more business than suburban or rural cities based on the the 4-10x number of rides and 5-30x number of drivers in urban cities compared to rural and suburban ones.
+- It's also interesting to note that the average fares are the lowest for drivers and ride in urban cities. This shows that trips are shorter/cost less in urban areas and that due to the high number of drivers, each employee makes less on average in urban cities compared to rural or suburban ones.
+- The graph shows a very consistent trend across the different city types. Urban cities consistently bring in the most money, followed by suburban ones, and finally rural cities. The plots vaguely mirror eachother with all three dropping their total fares in March before peaking mid-late February.
+
 
 
 
