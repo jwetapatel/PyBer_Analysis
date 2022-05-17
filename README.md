@@ -20,6 +20,8 @@ Software: Python 3.7.4, Pandas 0.25.2, Matplotlib 3.1.1, Jupyter Notebook
 
 # Results: 
 
+###  A ride-sharing summary DataFrame by city type
+
 - In order to perform the analysis, we merged datasets using left join based on the city column and got a one dataset with all available data. First of all, we created summary dataframe by city type. It has revealed first insight - there are few drivers and rides in rural cities with higher average fares compare to urban cities:
 
 - There are 13 times more rides in urban cities compare to rural cities (1,625 vs 125 rides)
@@ -28,8 +30,10 @@ Software: Python 3.7.4, Pandas 0.25.2, Matplotlib 3.1.1, Jupyter Notebook
 
 ![ride sharing data](https://user-images.githubusercontent.com/96400887/168848418-1c359844-5e45-4566-a400-05d0ace1d45c.png)
 
+### A multiple-line chart of total fares for each city type
+
 - The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. 
-- 
+ 
 - The yellow trend shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period. In contrast, the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and rural cities
 - 
 - Around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One noteworthy peak in total fares among urban, suburban, and rural cities occurred sometime at the end of February 2019.
